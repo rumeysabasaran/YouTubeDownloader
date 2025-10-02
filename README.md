@@ -10,7 +10,7 @@ Releases kısmındaki EXE dosyasını indirerek kuruluma gerek kalmadan çalış
 
 ## Gereksinimler
 - Python 3.8+
-- Gerekli kütüphaneler: `pytube`, `tkinter` (GUI için)
+- Gerekli kütüphaneler: `pytubefix`, `tkinter` (GUI için)
 
 ```bash
-pip install pytube
+pip install pytubefix
